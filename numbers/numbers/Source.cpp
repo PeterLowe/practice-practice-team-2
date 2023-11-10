@@ -15,7 +15,7 @@ int main()
 		std::cout << "the number was even" << std::endl;
 	}
 
-	if (input % 2 == 1)
+	else
 	{
 		std::cout << "the number was odd" << std::endl;
 	}
